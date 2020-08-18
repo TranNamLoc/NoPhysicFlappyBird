@@ -8,6 +8,7 @@ This is more of a disclaimer:
 
 One more thing
 **I did all the game art myself**
+
 If you are interested, I will put a link to my artstation account with the art for this game as soon as possible.
 
 I created this game based on the tutorial in this link
