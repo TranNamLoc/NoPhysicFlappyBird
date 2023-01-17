@@ -8,8 +8,7 @@ This is more of a disclaimer:
 
 One more thing
 **I did all the game art myself**
-
-If you are interested, I will put a link to my artstation account with the art for this game as soon as possible.
+See it here: https://www.artstation.com/artwork/mzdb8a
 
 I created this game based on the tutorial in this link
 https://www.youtube.com/watch?v=A-GkNM8M5p8&feature=youtu.be&t=7433&fbclid=IwAR3cL0q_4ftcpl4ZeS0adQ6Lu6MQ_kKfuG9OLgEjKK4E0wz6kJDOW1FF368
